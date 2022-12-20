@@ -12,13 +12,6 @@ public class Parrot {
      * @return text.
      */
     public String copy(String text){
-        String str = "hello"
-        return str;
-    }
-}
-
-public class Parrot {
-    public static void main(String[] args){
-        
+        return text;
     }
 }
